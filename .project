@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AORMobileFramework</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.aslibnature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] 3.0-src</name>
+			<type>2</type>
+			<location>/Users/aorition/worksHome/AORAPI/3.0/src</location>
+		</link>
+		<link>
+			<name>[source path] AORFramework-src</name>
+			<type>2</type>
+			<location>/Users/aorition/worksHome/AORFramework/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>

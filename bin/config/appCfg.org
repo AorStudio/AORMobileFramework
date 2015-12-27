@@ -1,0 +1,21 @@
+<appCfg>
+  <appInfo>
+  	<!-- 项目注册名称  -->
+    <name><![CDATA[项目应用名称]]></name>
+  </appInfo>
+  <network>
+    <socket>
+      <ip>127.0.0.1</ip>
+      <port>6000</port>
+      <encodeType>GBK</encodeType>
+    </socket>
+  </network>
+  <module>
+  	<!-- 是否启用SocketManager(客户端) -->
+    <SocketManager>true</SocketManager>
+  </module>
+  <mouse>
+  	<!-- 运行时是否隐藏鼠标 -->
+    <mouseHide>false</mouseHide>
+  </mouse>
+</appCfg>

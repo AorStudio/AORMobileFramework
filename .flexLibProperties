@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.air.SQLite.AIRSQLite"/>
+    <classEntry path="com.air.SQLite.helper.SqlParameter"/>
+    <classEntry path="com.air.net.ServerSocketManager"/>
+    <classEntry path="com.air.net.ServerSocketManagerEvent"/>
+    <classEntry path="com.command.AorCommander"/>
+    <classEntry path="com.command.CmdUnit"/>
+    <classEntry path="com.console.ACEchoStyle"/>
+    <classEntry path="com.console.AorConsole"/>
+    <classEntry path="com.console.AorConsoleEvent"/>
+    <classEntry path="com.crypto.DES"/>
+    <classEntry path="com.debug.TracePanel"/>
+    <classEntry path="com.media.AORVideo"/>
+    <classEntry path="com.media.AORVideoEvent"/>
+    <classEntry path="com.media.AORVideoStatsEmu"/>
+    <classEntry path="com.net.SocketManager"/>
+    <classEntry path="com.net.SocketManagerEvent"/>
+    <classEntry path="org.air.AORFileWorker"/>
+    <classEntry path="org.air.AorAIRbase"/>
+    <classEntry path="org.air.enu.RWLOCEnu"/>
+    <classEntry path="org.assets.ImgBatchLoader"/>
+    <classEntry path="org.basic.Aorfuns"/>
+    <classEntry path="org.basic.assets.ApplicationDomainTAG"/>
+    <classEntry path="org.bitmap.BitmapCutter"/>
+    <classEntry path="org.bitmap.Reflection"/>
+    <classEntry path="org.bitmap.Scale9Bitmap"/>
+    <classEntry path="org.bitmap.Snapshot"/>
+    <classEntry path="org.events.AORSimpleEvent"/>
+    <classEntry path="org.font.FontsHandle"/>
+    <classEntry path="org.graphics.AorDraw"/>
+    <classEntry path="org.interactive.InteractiveBase"/>
+    <classEntry path="org.interactive.MouseHandle"/>
+    <classEntry path="org.interactive.TouchHandle"/>
+    <classEntry path="org.interactive.assets.MouseEventPlus"/>
+    <classEntry path="org.interactive.assets.TouchEventPlus"/>
+    <classEntry path="org.keyborad.KeyCodeHelper"/>
+    <classEntry path="org.math.AorMath"/>
+    <classEntry path="org.math.GaussianElimination"/>
+    <classEntry path="org.math.ValueFormatConver"/>
+    <classEntry path="org.motion.AorMotion"/>
+    <classEntry path="org.motion.AorMotionEvent"/>
+    <classEntry path="org.motion.easing.Back"/>
+    <classEntry path="org.motion.easing.Bounce"/>
+    <classEntry path="org.motion.easing.Circular"/>
+    <classEntry path="org.motion.easing.Cubic"/>
+    <classEntry path="org.motion.easing.Elastic"/>
+    <classEntry path="org.motion.easing.Exponential"/>
+    <classEntry path="org.motion.easing.Linear"/>
+    <classEntry path="org.motion.easing.None"/>
+    <classEntry path="org.motion.easing.Quadratic"/>
+    <classEntry path="org.motion.easing.Quartic"/>
+    <classEntry path="org.motion.easing.Quintic"/>
+    <classEntry path="org.motion.easing.Regular"/>
+    <classEntry path="org.motion.easing.Sine"/>
+    <classEntry path="org.motion.easing.Strong"/>
+    <classEntry path="org.resize.IReszieChild"/>
+    <classEntry path="org.resize.ResizeHandle"/>
+    <classEntry path="org.resize.ResizeRule"/>
+    <classEntry path="org.template.MovieClipTLite"/>
+    <classEntry path="org.template.MovieClipTemplate"/>
+    <classEntry path="org.template.SpriteTLite"/>
+    <classEntry path="org.template.SpriteTemplate"/>
+    <classEntry path="org.template.TemplateTool"/>
+    <classEntry path="org.units.ByteArrayParser"/>
+    <classEntry path="org.units.Color"/>
+    <classEntry path="org.units.EncodeTypeEnu"/>
+    <classEntry path="UI.ContentMask"/>
+    <classEntry path="logic.CommandManager"/>
+    <classEntry path="logic.ICommander"/>
+    <classEntry path="page.BasePage"/>
+    <classEntry path="page.BasePageTLite"/>
+    <classEntry path="page.PageGrid"/>
+    <classEntry path="page.PageGridTLite"/>
+    <classEntry path="entry.AORFWEntry"/>
+    <classEntry path="licensing.LicensingManager"/>
+    <classEntry path="logic.Core"/>
+    <classEntry path="logic.FrameworkCmds"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
